@@ -1,0 +1,60 @@
+Timestamp,Topic,Persona,Script
+2025-11-25 14:56:04,Daha hızlı debug yapmak ister misin? İşte süper bir ipucu: `console.table()`! Karmaşık objeleri ve dizileri anında görselleştirerek hataları bulmayı kolaylaştırır. #debugging #yazılımtüyoları,yazılım mühendisi,"## HOOK
+Çoğu yazılımcının bilmediği süper debug sırrı açığa çıktı! 🤫
+## HOOK_NOTES
+[Visual: Şaşkın ifadeyle ekrana yakın çekim, Audio: Heyecanlı bir fısıltı]
+
+## BUILD UP
+Eğer sen de karmaşık verilerle uğraşmaktan bıktıysan ve saatlerini hataları ayıklamakla geçiriyorsan, bu tam sana göre. Seni bu dertten kurtaracak bir yöntemim var.
+## BUILD UP_NOTES
+[Visual: Ekranda karmaşık kod görüntüsü, ardından yüzünde rahatlama ifadesi, Audio: Empati kuran, samimi bir ton]
+
+## CORE
+Benim gibi yazılımcıların hayatını kolaylaştıran `console.table()` komutuyla tanışın!
+1.  **Ne İşe Yarar?** Karmaşık objeleri ve dizileri tablo şeklinde görselleştirir. Yani iç içe geçmiş verileri tek tek incelemek yerine, her şeyi düzenli bir tabloda görebilirsin.
+2.  **Nasıl Kullanılır?** Tarayıcı konsolunda `console.table(değişken)` yazman yeterli. İşte bu kadar basit! 🤩
+3.  **Neden Bu Kadar İyi?** Hata ayıklama sürecini hızlandırır, okunabilirliği artırır ve karmaşık veri yapılarını anlamanı kolaylaştırır. Kodun içindeki gizli hataları anında fark edebilirsin.
+
+## CORE_NOTES
+[Visual: Ekran kaydı ile `console.table()` kullanımını göster, Audio: Net ve açıklayıcı bir anlatım]
+
+## CTA
+Bu hayat kurtaran tüyoyu daha fazla yazılımcı arkadaşının öğrenmesi için paylaşmayı unutma!
+## CTA_NOTES
+[Visual: Ekrana doğru işaret ederek ""paylaş"" butonunu göster, Audio: Enerjik ve davetkar bir ton]
+
+## CAPTION
+Debugging'e yeni bir soluk! ✨
+`console.table()` ile karmaşık verileri saniyeler içinde çöz, zamandan tasarruf et. Yazılımcı dostlarına gönder, hayatlarını kolaylaştır!
+Kaydetmeyi unutma! 💾
+#yazılımmühendisliği #debug #codetips #developer #developerlife
+"
+2025-11-25 13:45:33,Photoshop mu? Gereksiz! Ücretsiz alternatifler varken neden para ödeyesin ki? İşte favori ücretsiz editörlük araçlarım... Sence hangisi daha iyi?,editör,"## HOOK
+Photoshop'a para mı verilir? 🤯 Bedava varken?
+## HOOK_NOTES
+[Visual: Şaşkın ifadeyle yakın çekim, Audio: Yüksek ses tonu, şaşkın]
+
+## BUILD UP
+Sürekli duyuyorum ""Photoshop şart, başka yolu yok"" diye. Yok öyle bir şey! Tembellik yapıp araştırmayanlar konuşuyor sadece. 😉
+## BUILD UP_NOTES
+[Visual: Ekran kaydı örnek Photoshop arayüzü, Audio: Biraz alaycı ama enerjik]
+
+## CORE
+İşte benim favori ücretsiz editörlük araçlarım:
+1.  **GIMP:** Photoshop'un neredeyse aynısı. Arayüzü biraz eski sadece.
+2.  **Photopea:** Tarayıcıda çalışır, indirmeye gerek yok. Acil durumlarda can kurtarır!
+3.  **Canva:** Tasarım şablonlarıyla dolu. Sosyal medya içerikleri için ideal.
+## CORE_NOTES
+[Visual: Her bir araç için ekran görüntüsü ve kısa demo, Text: Araçların isimleri ve kısa açıklamaları ekranda]
+
+## CTA
+Sence hangisi daha iyi? Yorumlarda yaz! 👇 Ve daha fazla ücretsiz araç için takip et! 😉
+## CTA_NOTES
+[Visual: Aşağıyı işaret eden animasyon, Audio: Davetkar ve enerjik]
+
+## CAPTION
+Photoshop'a veda et! 👋
+Ücretsiz alternatiflerle hem cebini koru, hem de harika işler çıkar. Favori araçlarını yorumlarda paylaşmayı unutma!
+Takip et ve daha fazla ücretsiz içerik için bildirimleri aç! 🔔
+#ücretsiz #photoshopalternatifleri #gimp #photopea #canva
+"
